@@ -10,7 +10,15 @@ builder.Services.AddCors(options =>
 });
 
 // 2. Configure Database connection
-var connectionString = "Server=localhost;Database=RestaurantAppDB;User=root;Password=ken3087;";
+var dbHost = Environment.GetEnvironmentVariable("DB_HOST") ?? "";
+var dbName = Environment.GetEnvironmentVariable("DB_NAME") ?? "";
+var dbUser = Environment.GetEnvironmentVariable("DB_USER") ?? "";
+var dbPassword = Environment.GetEnvironmentVariable("DB_PASSWORD") ?? "";
+
+// Build the connection string using the values
+var connectionString =
+    $"Server={dbHost};Database={dbName};User={dbUser};Password={dbPassword};";
+
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 

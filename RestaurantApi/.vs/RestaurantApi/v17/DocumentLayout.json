@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8A79B6D-B667-CFBB-A571-AB3AA428D302}|RestaurantApi.csproj|d:\\programminglearning\\restaurantapp\\restaurantapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8A79B6D-B667-CFBB-A571-AB3AA428D302}|RestaurantApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{B8A79B6D-B667-CFBB-A571-AB3AA428D302}|RestaurantApi.csproj|d:\\programminglearning\\restaurantapp\\restaurantapi\\restaurantapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B8A79B6D-B667-CFBB-A571-AB3AA428D302}|RestaurantApi.csproj|solutionrelative:restaurantapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\RestaurantApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:RestaurantApi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{B8A79B6D-B667-CFBB-A571-AB3AA428D302}|RestaurantApi.csproj|d:\\programminglearning\\restaurantapp\\restaurantapi\\restaurantapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{B8A79B6D-B667-CFBB-A571-AB3AA428D302}|RestaurantApi.csproj|solutionrelative:restaurantapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8A79B6D-B667-CFBB-A571-AB3AA428D302}|RestaurantApi.csproj|d:\\programminglearning\\restaurantapp\\restaurantapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8A79B6D-B667-CFBB-A571-AB3AA428D302}|RestaurantApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,32 +26,44 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-11T13:31:45.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RestaurantApi.csproj",
+              "Title": "RestaurantApi",
               "DocumentMoniker": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\RestaurantApi.csproj",
               "RelativeDocumentMoniker": "RestaurantApi.csproj",
               "ToolTip": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\RestaurantApi.csproj",
               "RelativeToolTip": "RestaurantApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-11T13:31:40.613Z",
+              "WhenOpened": "2026-05-13T13:43:01.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RestaurantApi.http",
+              "DocumentMoniker": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\RestaurantApi.http",
+              "RelativeDocumentMoniker": "RestaurantApi.http",
+              "ToolTip": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\RestaurantApi.http",
+              "RelativeToolTip": "RestaurantApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-05-13T11:54:12.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-13T11:56:14.495Z",
               "EditorCaption": ""
             },
             {
@@ -58,9 +74,9 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\ProgrammingLearning\\RestaurantApp\\RestaurantApi\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAIwEYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-11T13:31:33.012Z",
+              "WhenOpened": "2026-05-13T11:54:00.788Z",
               "EditorCaption": ""
             }
           ]
